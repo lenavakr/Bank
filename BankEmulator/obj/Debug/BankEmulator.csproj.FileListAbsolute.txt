@@ -1,0 +1,21 @@
+E:\.net lab SOLID\Bank\BankEmulator\bin\Debug\BankEmulator.exe.config
+E:\.net lab SOLID\Bank\BankEmulator\bin\Debug\BankEmulator.exe
+E:\.net lab SOLID\Bank\BankEmulator\bin\Debug\BankEmulator.pdb
+E:\.net lab SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.csprojAssemblyReference.cache
+E:\.net lab SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.csproj.CoreCompileInputs.cache
+E:\.net lab SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.exe
+E:\.net lab SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.pdb
+F:\SOLID\Bank\BankEmulator\bin\Debug\BankEmulator.exe.config
+F:\SOLID\Bank\BankEmulator\bin\Debug\BankEmulator.exe
+F:\SOLID\Bank\BankEmulator\bin\Debug\BankEmulator.pdb
+F:\SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.csprojAssemblyReference.cache
+F:\SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.csproj.CoreCompileInputs.cache
+F:\SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.exe
+F:\SOLID\Bank\BankEmulator\obj\Debug\BankEmulator.pdb
+D:\учеба\Bank\BankEmulator\bin\Debug\BankEmulator.exe.config
+D:\учеба\Bank\BankEmulator\bin\Debug\BankEmulator.exe
+D:\учеба\Bank\BankEmulator\bin\Debug\BankEmulator.pdb
+D:\учеба\Bank\BankEmulator\obj\Debug\BankEmulator.csprojAssemblyReference.cache
+D:\учеба\Bank\BankEmulator\obj\Debug\BankEmulator.csproj.CoreCompileInputs.cache
+D:\учеба\Bank\BankEmulator\obj\Debug\BankEmulator.exe
+D:\учеба\Bank\BankEmulator\obj\Debug\BankEmulator.pdb
